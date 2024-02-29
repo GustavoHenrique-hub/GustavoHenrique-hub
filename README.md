@@ -13,16 +13,30 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8367C7&vCenter=true&random=false&width=435&lines=-+%F0%9F%8C%B1+I%E2%80%99m+currently+learning+this%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8367C7&vCenter=true&random=false&width=435&lines=+%F0%9F%8C%B1+I%E2%80%99m+currently+learning+this%3A)](https://git.io/typing-svg)
 
 <br/>
+
 <div style="display: inline_block">
-  <a href="https://docs.oracle.com/en/java/"><img heigth="125" width="125" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img heigth="125" width="125" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img heigth="125" width="125" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img heigth="125" width="125" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" /></a>
+  <a href="https://docs.oracle.com/en/java/" target="_blank"><img heigth="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img heigth="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img heigth="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img heigth="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" /></a>
   
 </div>
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8367C7&vCenter=true&random=false&width=435&lines=%F0%9F%93%AB+How+to+reach+me%3A)](https://git.io/typing-svg)
+
+
+<div>
+  <a href="https://www.instagram.com/elguxta_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"</a>
+  <a href="https://www.linkedin.com/in/gustavo-henrique-77a21823a/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+  <a href="mailto:gustavosilva.h37@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
+ </div> 
+
+<br/>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8367C7&height=120&section=footer"/>
 <!--
