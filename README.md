@@ -40,6 +40,7 @@
   <a href="https://www.instagram.com/elguxta_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"</a>
   <a href="https://www.linkedin.com/in/gustavo-henrique-77a21823a/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"</a>
   <a href="mailto:gustavosilva.h37@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
+    <a opacity="0">s</a>
  </div> 
 
 <br/>
