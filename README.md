@@ -8,7 +8,7 @@
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GustavoHenrique-hub&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Gustavo Henrique github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoHenrique-hub&layout=compact&hide_border=true&theme=tokyonight" />
-  
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GustavoHenrique-hub&theme=tokyonight&hide_border=true&layout=compact" alt="GustavoHenrique-hub" />
 </div>
 
 <br/>
